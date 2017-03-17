@@ -1,0 +1,22 @@
+{
+    "plugins": [
+        "theme-api",
+        "multipart",
+        "codeblock"
+    ],
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "go",
+                    "name": "Go"
+                }
+            ]
+        }
+    }
+}
