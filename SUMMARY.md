@@ -5,6 +5,7 @@
 * [订单API文档](订单api文档.md)
 * [面单API文档](面单api文档.md)
 * [获取API帐号](获取博丰api帐号.md)
+* [物流信息](wu-liu-xin-xi.md)
 
 ## 对接物流系统教程
 * [通途ERP](methods.md)
